@@ -1,4 +1,4 @@
-# predictomics
+# pypredictomics
 ## Farielberry Lab
 Contact us: farielberry YKW gmail
 <hr>
